@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "bower": "^1.8.0",
-    "eslint": "^2.12.0",
+    "eslint": "^4.18.2",
     "eslint-config-edx-es5": "2.0.0",
     "eslint-plugin-dollar-sign": "0.0.5",
     "eslint-plugin-import": "^1.9.2",
